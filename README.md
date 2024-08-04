@@ -1,0 +1,1 @@
+JavaScript palindrome demo exercise
